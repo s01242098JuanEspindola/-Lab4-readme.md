@@ -55,6 +55,14 @@ Choosing a format for each image is essential. There are different types of form
 Explain your image design, including how many "layers" were required. The design of the image was made with a total of 5 layers. 
 The first and second layers are a triangle. Both triangles are between posts; each triangle is in the opposite position. The two triangles represent a star. The third layer is a human head, and inside is a globe that symbolizes globalization. In the middle, I wrote IT1025 and the initials of my name. Finally, the last layers nut that it represents the motion in life.
 
+Right-click on your svg image file, select "properties" and report the file size and what application it "opens with." What application might be more appropriate and why (click the "change" button for options) 
+
+The SVG image size is 146 KB, and the application opens with SVG document safari.
+
+### Conclusion
+
+
+
 
 
 
