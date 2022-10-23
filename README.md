@@ -50,7 +50,7 @@ Choosing a format for each image is essential. There are different types of form
 | is used on photos                  | lossless compression                        |Cannot be used for animation         |
 |Is recomend in high contrast        |used on the web to display graphics and logos|Lossless compression                 |
 
-
+### File Properties
 
 
 
