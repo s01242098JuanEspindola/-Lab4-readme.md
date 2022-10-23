@@ -64,6 +64,7 @@ The SVG image size is 146 KB, and the application opens with SVG document safari
 
 ### Conclusion
 
+ In sumary, We covered Operating Systems, Python IDLE and Graphic. We learned to run programs on windows and IOS. For example, in IOS, we use the terminal to know the operating system and how to create and modify files. Also, Windows has a similar application called CMD, in which we can do the same functions as IOS.
 
 
 
