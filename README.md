@@ -28,3 +28,30 @@ Tfloating-point numbersh is value is represented by float class. It is a real nu
 
 . A string is a collection of one or more characters put in a single quote, double-quote or triple quote.
 
+### Graphics
+
+### Raster vs. Vector Graphics
+
+Graphics rasters are built from pixels, the tiny color square that all united form high-quality images. For example, we can see distortion when we apply zoom to a picture. The most common are the photos that file as JPG, GIF, PNG, TIF, BMP, and PSD
+
+
+Vector graphics are distinct from a raster. Vector is made by e mathematical equations, lines, and curves with fixed points on a grid to produce an image. The advantage of the vector is made high or smaller. They do not lose quantity. For example, professionals build vector images for mathematical equations, lines, and curves. When we apply zoom to an image, we cannot see distortion.
+
+#### Lossless vs. Lossy Compression 
+
+Choosing a format for each image is essential. There are different types of formats, such as JPG, GIF, and PNG. Depending on the kind of image, developers can use different types of formats. This can vary from the need of the person or the developer. For example, the most appropriate format is GIF for graphics or images such as logos or drawings. Because a large number of color palettes are used, on the other hand, it is better to use JPGE for photos or with degraded images because the pictures have subtle color changes and show better quality when saved. The best option for images with high contrast is PNG, because they do not lose the original quality.
+
+
+### File Formats
+
+JPEGs contain less data than PNGs — and therefore, are usually smaller in size. Unlike JPEGs, PNGs support transparent backgrounds, making them preferred for graphic design.
+
+
+
+
+
+
+
+
+
+
