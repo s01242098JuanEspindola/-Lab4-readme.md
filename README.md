@@ -44,6 +44,11 @@ Choosing a format for each image is essential. There are different types of form
 
 ### File Formats
 
+| JPEG.        | GIF.                     |  |
+| :---         |     :---:                |          ---: |
+|              | The imagen has motion    | git status    |
+| git diff     | git diff                 | git diff      |
+
 JPEGs contain less data than PNGs — and therefore, are usually smaller in size. Unlike JPEGs, PNGs support transparent backgrounds, making them preferred for graphic design.
 
 
