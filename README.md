@@ -1,6 +1,7 @@
 # -Lab4-readme.md
 ### Executive Summary
 
+In lab number 4. We will cover the use of terminal and cmd. Both programs let us will check what the operating system of our computer is. We learn basic commands to create, modify and name files. In Python, we will learn how to program on Python IDLE. We will learn to execute programs through assignment statements, functions, and variables.Further, We will cover an introduction to graphics and the main program used like raster vs. vector Graphics. 
 
 
 ### Python IDLE
