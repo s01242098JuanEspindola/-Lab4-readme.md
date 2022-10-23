@@ -44,12 +44,12 @@ Choosing a format for each image is essential. There are different types of form
 
 ### File Formats
 
-| JPEG.                              | GIF.                     | PNG 
-| :---                               |     :---:                |                                ---: |
-| Developers can tune-fine precision | The imagen has motion    |Soporte high palette-based color     |
-| is used on photos                  | lossless compression     |Cannot be used for animation         |
-|Is recomend in high contrast        |                          |Lossless compression                 |
-|                                    |                          |                                     |
+| JPEG.                              | GIF.                                        | PNG 
+| :---                               |     :---:                                   |                                ---: |
+| Developers can tune-fine precision | The imagen has motion                       |Soporte high palette-based color     |
+| is used on photos                  | lossless compression                        |Cannot be used for animation         |
+|Is recomend in high contrast        |used on the web to display graphics and logos|Lossless compression                 |
+
 
 
 
