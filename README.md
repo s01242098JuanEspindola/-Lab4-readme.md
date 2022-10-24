@@ -64,9 +64,7 @@ The SVG image size is 146 KB, and the application opens with SVG document safari
 
 ### Conclusion
 
- In Python IDLE we learned to program through commands and variables. In the application created, we learned how to run the program with basic questions seen in the video. Finally, we cover graphics. This module taught us about the main chart types, such as Raster vs. Vector graphics. In these types of graphics, there are several subtypes of files where they can be stored. Finally, we create graphics in the vector application and explain the used layers. In short, this work was quite interactive since we put into practice programs such as terminals, Python, and vector.
-We learned to run programs on windows and IOS. For example, in IOS, we use the terminal to know the operating system and how to create and modify files. Also, Windows has a similar application called CMD, in which we can do the same functions as IOS.
-
+In sumary we covered three kind module, like  Operating Systems, Python IDLE and Graphics Operative system, We learned to run programs on windows and IOS. For example, in IOS, we use the terminal to know the operating system and how to create and modify files. Also, Windows has a similar application called CMD, in which we can do the same functions as IOS. In Python IDLE we learned to program through commands and variables. In the application created, we learned how to run the program with basic questions seen in the video. Finally, we cover graphics. This module taught us about the main chart types, such as Raster vs. Vector graphics. In these types of graphics, there are several subtypes of files where they can be stored. Finally, we create graphics in the vector application and explain the used layers. In short, this work was quite interactive because we put into practice programs such as terminals, Python, and vector.
 
 
 
